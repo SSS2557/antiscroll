@@ -469,3 +469,7 @@
   };
 
 })(jQuery);
+/*
+quick custom use case workaround to ignore sourcemap issues
+*/
+//# sourceMappingURL=antiscroll.js.map
